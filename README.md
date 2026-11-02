@@ -115,7 +115,7 @@ implementation 'com.google.android.material:material:1.9.0'
 ### ⚙ Установка
 - Клонируйте репозиторий:
 ```bash
-git clone https://github.com/Yusi-21/Healthcare.git
+git clone https://github.com/9secretS/Healthcare-main.git
 ```
 - Откройте проект в Android Studio
 - Соберите и запустите приложение
